@@ -1,0 +1,3 @@
+adaptor
+listingTextValueChange: aController
+	^self

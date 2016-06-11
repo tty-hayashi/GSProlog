@@ -1,0 +1,3 @@
+testing
+isPrologSend
+	^self = PrologSend

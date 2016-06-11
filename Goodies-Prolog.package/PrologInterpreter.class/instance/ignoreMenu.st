@@ -1,0 +1,3 @@
+adaptor
+ignoreMenu
+	^nil

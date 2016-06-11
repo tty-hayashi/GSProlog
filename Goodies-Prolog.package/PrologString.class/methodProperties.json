@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"copyright" : "",
+		"fromString:" : "",
+		"readFrom:" : "nsh 1/13/2014 05:01",
+		"system" : "",
+		"version" : "" },
+	"instance" : {
+		"<" : "",
+		"<=" : "",
+		"=" : "",
+		">" : "",
+		">=" : "",
+		"asString" : "",
+		"at:" : "",
+		"at:put:" : "",
+		"do:" : "",
+		"hash" : "",
+		"printOn:" : "",
+		"printPrologOn:" : "",
+		"printPrologOn:level:" : "",
+		"size" : "",
+		"string" : "",
+		"string:" : "" } }

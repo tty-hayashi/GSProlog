@@ -1,0 +1,16 @@
+{
+	"category" : "Goodies-Prolog",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"PrologDotPairPrintHorizontalLevel",
+		"PrologDotPairPrintVerticalLevel" ],
+	"commentStamp" : "nsh 9/8/2008 06:43",
+	"instvars" : [
+		"carPart",
+		"cdrPart" ],
+	"name" : "PrologList",
+	"pools" : [
+		 ],
+	"super" : "PrologEntity",
+	"type" : "normal" }

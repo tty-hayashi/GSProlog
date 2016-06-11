@@ -1,0 +1,3 @@
+testing
+isPrologFail
+	^self = PrologFail

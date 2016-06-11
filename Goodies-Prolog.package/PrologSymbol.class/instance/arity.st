@@ -1,0 +1,3 @@
+accessing
+arity
+	^0

@@ -1,0 +1,15 @@
+{
+	"category" : "Goodies-Prolog",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"PrologVariableCounter",
+		"PrologVariableTable" ],
+	"commentStamp" : "nsh 9/8/2008 06:43",
+	"instvars" : [
+		 ],
+	"name" : "PrologVariable",
+	"pools" : [
+		 ],
+	"super" : "PrologString",
+	"type" : "normal" }

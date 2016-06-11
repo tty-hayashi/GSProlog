@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"car" : "",
+		"cdr" : "",
+		"cons:" : "",
+		"consp" : "",
+		"isPrologEntity" : "",
+		"isPrologVariable" : "",
+		"printPrologOn:" : "",
+		"printPrologOn:level:" : "",
+		"printPrologString" : "" } }

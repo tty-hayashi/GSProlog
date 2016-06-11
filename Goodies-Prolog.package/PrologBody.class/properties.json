@@ -1,0 +1,14 @@
+{
+	"category" : "Goodies-Prolog",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "nsh 9/8/2008 06:44",
+	"instvars" : [
+		 ],
+	"name" : "PrologBody",
+	"pools" : [
+		 ],
+	"super" : "PrologList",
+	"type" : "normal" }

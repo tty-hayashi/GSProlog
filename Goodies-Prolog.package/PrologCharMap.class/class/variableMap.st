@@ -1,0 +1,3 @@
+table access
+variableMap
+	^VariableMap

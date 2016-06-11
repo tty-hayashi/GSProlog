@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"copyright" : "",
+		"initialize" : "",
+		"new" : "nsh 1/26/2010 17:09",
+		"system" : "",
+		"version" : "" },
+	"instance" : {
+		"initScanner" : "",
+		"multiChar:" : "",
+		"nextChar" : "nsh 1/26/2010 17:43",
+		"nextToken" : "",
+		"on:" : "",
+		"peekChar" : "nsh 1/26/2010 17:45",
+		"singleChar:" : "",
+		"unNextChar" : "",
+		"unNextToken" : "",
+		"xBinary" : "nsh 1/13/2014 05:02",
+		"xColon" : "",
+		"xComment" : "",
+		"xDigit" : "",
+		"xDollar" : "",
+		"xDoubleQuote" : "",
+		"xSign" : "",
+		"xSingleQuote" : "",
+		"xSymbol" : "",
+		"xVariable" : "" } }

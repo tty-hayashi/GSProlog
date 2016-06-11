@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"copyright" : "",
+		"fromList:" : "",
+		"fromReverseList:" : "",
+		"system" : "",
+		"term:next:" : "",
+		"version" : "" },
+	"instance" : {
+		"fromList:" : "",
+		"fromReverseList:" : "",
+		"printPrologOn:" : "",
+		"printPrologOn:level:" : "",
+		"term:next:" : "" } }

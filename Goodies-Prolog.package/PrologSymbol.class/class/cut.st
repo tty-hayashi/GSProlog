@@ -1,0 +1,3 @@
+constants
+cut
+	^PrologCut

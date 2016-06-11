@@ -1,0 +1,20 @@
+{
+	"category" : "Goodies-Prolog",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"PrologCut",
+		"PrologFail",
+		"PrologSelf",
+		"PrologSend",
+		"PrologSymbolTable",
+		"PrologTrue",
+		"PrologVar" ],
+	"commentStamp" : "nsh 9/8/2008 06:43",
+	"instvars" : [
+		 ],
+	"name" : "PrologSymbol",
+	"pools" : [
+		 ],
+	"super" : "PrologString",
+	"type" : "normal" }

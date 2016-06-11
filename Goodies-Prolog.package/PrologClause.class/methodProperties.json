@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"copyright" : "",
+		"head:body:" : "",
+		"system" : "",
+		"version" : "" },
+	"instance" : {
+		"body" : "",
+		"body:" : "",
+		"head" : "",
+		"head:" : "",
+		"head:body:" : "",
+		"prettyPrintPrologOn:" : "",
+		"prettyPrintPrologString" : "",
+		"printPrologOn:" : "",
+		"printPrologOn:level:" : "",
+		"questionPrintPrologOn:" : "" } }

@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"copyright" : "",
+		"countUp" : "",
+		"initialize" : "",
+		"install:" : "",
+		"readFrom:" : "",
+		"setZero" : "",
+		"system" : "",
+		"version" : "" },
+	"instance" : {
+		"isPrologVariable" : "",
+		"printPrologOn:" : "",
+		"printPrologOn:level:" : "" } }

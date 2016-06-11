@@ -1,0 +1,18 @@
+{
+	"category" : "Goodies-Prolog",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "nsh 9/8/2008 06:43",
+	"instvars" : [
+		"prevMark",
+		"prevToken",
+		"prevTokenType",
+		"failBlock",
+		"compiler" ],
+	"name" : "PrologParser",
+	"pools" : [
+		 ],
+	"super" : "PrologScanner",
+	"type" : "normal" }

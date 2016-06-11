@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"example" : "nsh 11/9/2012 03:49",
+		"new" : "nsh 9/7/2008 14:33" },
+	"instance" : {
+		"changed:" : "nsh 9/7/2008 14:39",
+		"index" : "nsh 11/9/2012 04:13",
+		"index:" : "nsh 9/7/2008 19:49",
+		"initialize" : "nsh 9/7/2008 14:35",
+		"list" : "nsh 9/7/2008 14:36",
+		"list:" : "nsh 9/7/2008 14:36",
+		"makeSelectionMenu:" : "nsh 11/9/2012 04:43",
+		"menu" : "nsh 9/7/2008 19:52",
+		"menu:" : "nsh 11/9/2012 03:49",
+		"menuItems" : "nsh 9/7/2008 19:51",
+		"menuMorph:" : "nsh 9/7/2008 19:53",
+		"musicBands" : "nsh 9/7/2008 14:44",
+		"selection" : "nsh 9/7/2008 19:19",
+		"selection:" : "nsh 9/7/2008 21:29",
+		"smenuMorph:" : "nsh 11/9/2012 04:13",
+		"toggleListIndex:" : "nsh 9/7/2008 19:29",
+		"update" : "nsh 9/7/2008 14:39",
+		"update:" : "nsh 9/7/2008 14:39",
+		"update:with:" : "nsh 9/7/2008 14:39",
+		"update:with:with:" : "nsh 9/7/2008 14:39" } }

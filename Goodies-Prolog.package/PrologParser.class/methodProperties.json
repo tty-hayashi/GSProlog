@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"copyright" : "",
+		"system" : "",
+		"version" : "" },
+	"instance" : {
+		"compileAndEvaluate:" : "nsh 1/26/2010 16:53",
+		"init:ifFail:" : "",
+		"nextToken" : "",
+		"parse:" : "nsh 1/26/2010 17:11",
+		"parse:ifFail:" : "",
+		"scan" : "",
+		"scanBody" : "",
+		"scanClause" : "",
+		"scanExpression" : "",
+		"scanList" : "",
+		"scanStructure" : "",
+		"scanTerms" : "",
+		"unNextToken" : "" } }

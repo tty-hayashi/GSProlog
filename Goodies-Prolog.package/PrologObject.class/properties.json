@@ -1,0 +1,15 @@
+{
+	"category" : "Goodies-Prolog",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "nsh 9/8/2008 06:43",
+	"instvars" : [
+		"source",
+		"object" ],
+	"name" : "PrologObject",
+	"pools" : [
+		 ],
+	"super" : "PrologEntity",
+	"type" : "normal" }

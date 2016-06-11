@@ -1,0 +1,37 @@
+{
+	"category" : "Goodies-Prolog",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"SystemPredicates" ],
+	"commentStamp" : "nsh 8/31/2008 08:01",
+	"instvars" : [
+		"systemPredicates",
+		"userPredicates",
+		"status",
+		"definition",
+		"question",
+		"questionEnv",
+		"clause",
+		"clauseEnv",
+		"queue",
+		"queueEnv",
+		"envCounter",
+		"valueEnv",
+		"unbindList",
+		"cutBack",
+		"backTrack",
+		"resolveAction",
+		"definitionStack",
+		"tracePredicates",
+		"traceCounter",
+		"textValue",
+		"textCollector",
+		"verbose",
+		"listValue",
+		"predicate" ],
+	"name" : "PrologInterpreter",
+	"pools" : [
+		 ],
+	"super" : "StringHolder",
+	"type" : "normal" }

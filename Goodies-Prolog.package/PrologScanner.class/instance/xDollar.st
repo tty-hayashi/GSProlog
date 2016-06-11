@@ -1,0 +1,3 @@
+scanning
+xDollar
+	self xBinary

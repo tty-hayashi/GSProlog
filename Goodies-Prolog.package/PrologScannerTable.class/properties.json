@@ -1,0 +1,14 @@
+{
+	"category" : "Goodies-Prolog",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ScanningTable" ],
+	"commentStamp" : "nsh 9/8/2008 06:43",
+	"instvars" : [
+		 ],
+	"name" : "PrologScannerTable",
+	"pools" : [
+		 ],
+	"super" : "Array",
+	"type" : "variable" }

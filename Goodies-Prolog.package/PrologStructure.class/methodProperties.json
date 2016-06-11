@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"copyright" : "",
+		"functor:terms:" : "",
+		"system" : "",
+		"version" : "" },
+	"instance" : {
+		"arity" : "",
+		"functor" : "",
+		"functor:" : "",
+		"functor:terms:" : "",
+		"nthTerm:" : "",
+		"printPrologOn:" : "",
+		"printPrologOn:level:" : "",
+		"structureList" : "",
+		"terms" : "",
+		"terms:" : "" } }

@@ -1,0 +1,3 @@
+testing
+isPrologCut
+	^self = PrologCut

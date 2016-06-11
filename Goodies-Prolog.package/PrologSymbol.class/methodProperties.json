@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"copyright" : "",
+		"cut" : "",
+		"expect:on:" : "",
+		"initialize" : "",
+		"install:" : "nsh 1/26/2010 18:07",
+		"readFrom:" : "nsh 1/13/2014 05:01",
+		"system" : "",
+		"version" : "" },
+	"instance" : {
+		"arity" : "",
+		"functor" : "",
+		"isBuiltInPredicate" : "",
+		"isPrologCut" : "",
+		"isPrologFail" : "",
+		"isPrologSelf" : "",
+		"isPrologSend" : "",
+		"isPrologTrue" : "",
+		"isPrologVar" : "",
+		"printPrologOn:" : "",
+		"printPrologOn:level:" : "" } }

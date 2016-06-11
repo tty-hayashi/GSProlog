@@ -1,0 +1,3 @@
+testing
+isPrologTrue
+	^self = PrologTrue

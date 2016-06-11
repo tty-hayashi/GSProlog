@@ -1,0 +1,14 @@
+{
+	"category" : "Goodies-Prolog-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lengthOfSystemPredicates" ],
+	"name" : "PrologInterpreterTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

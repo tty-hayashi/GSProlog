@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfProlog",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfProlog",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,19 @@
+{
+	"category" : "Goodies-Prolog",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"EndChar" ],
+	"commentStamp" : "nsh 9/8/2008 06:43",
+	"instvars" : [
+		"source",
+		"mark",
+		"token",
+		"tokenType",
+		"typeTable",
+		"endChar" ],
+	"name" : "PrologScanner",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Goodies-Prolog",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"SymbolMap",
+		"VariableMap" ],
+	"commentStamp" : "nsh 9/8/2008 06:43",
+	"instvars" : [
+		 ],
+	"name" : "PrologCharMap",
+	"pools" : [
+		 ],
+	"super" : "Array",
+	"type" : "variable" }

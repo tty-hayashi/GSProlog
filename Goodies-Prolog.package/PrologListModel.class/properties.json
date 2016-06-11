@@ -1,0 +1,17 @@
+{
+	"category" : "Goodies-Prolog",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "nsh 9/8/2008 06:41",
+	"instvars" : [
+		"selectionMenu",
+		"list",
+		"selection",
+		"listIndex" ],
+	"name" : "PrologListModel",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }
